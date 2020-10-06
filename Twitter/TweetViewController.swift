@@ -2,7 +2,7 @@
 //  TweetViewController.swift
 //  Twitter
 //
-//  Created by Nathan Latronica on 10/3/20.
+//  Created by Nick Tralongo on 10/3/20.
 //  Copyright © 2020 Dan. All rights reserved.
 //
 
