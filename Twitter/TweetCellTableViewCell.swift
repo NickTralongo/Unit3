@@ -2,7 +2,7 @@
 //  TweetCellTableViewCell.swift
 //  Twitter
 //
-//  Created by Nathan Latronica on 9/28/20.
+//  Created by Nick Tralongo on 9/28/20.
 //  Copyright © 2020 Dan. All rights reserved.
 //
 
